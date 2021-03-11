@@ -4,7 +4,6 @@
 
 ## MQ
 
-* 项目中RabbitMQ实现了at least once,包括mq反馈provider,消息持久化,consumer主动反馈mq.线程池消费防止消息积压等
 * mq 通知时，消费者没消费到怎么办
 * 简单聊聊消息中间件？
 * 你了解那些具体的消息中间件产品？
