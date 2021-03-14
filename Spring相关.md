@@ -41,7 +41,7 @@
 * spring底层数据结构？
 * spring aop的底层实验原理。 aop与cglib，与asm的关系。 spriong ioc的生命周期，init-method，intilizingbean接口方法afterPropertiesSet的先后顺序；
 * @transactional注解在什么情况下会失效，为什么。
-* .Spring如何维护它拥有的bean
+* Spring如何维护它拥有的bean
 * 问了class A和B相互依赖的情况下，spring如何对这两个bean进行加载
 * spring的bean加载机制和加载过程是怎样的；bean是什么时候消亡；
 * 对spring的Bean加载了解吗？如果是你自己写一个这样的框架，你会如何写？
